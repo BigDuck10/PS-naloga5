@@ -1,4 +1,4 @@
-// Package postaje definira postajo in vsebuje funkcije za upravljane s postajami
+// Package vreme definira postajo in vsebuje funkcije za upravljane s postajami
 package vreme
 
 import (
